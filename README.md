@@ -1,3 +1,0 @@
-# EternalExpedition
-
-// TODO: create description
